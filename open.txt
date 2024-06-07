@@ -1,0 +1,4 @@
+Constraintlayout, katta ekranga ega yoki kichik qurilmalar uchun 
+mo'ljallangan barcha Android loyihalarida juda mashhurdir.
+Shuning uchun juda ham ko'p ishlarni / " " : amalga oshirishimiz shart bo'ladi.
+1 5 5 4 8 6 1 64 
